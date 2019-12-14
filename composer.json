@@ -1,4 +1,6 @@
 {
+    "name" : "",
+    "description" : "",
     "require": {
         "recurly/recurly-client": "2.12.*"
     }
