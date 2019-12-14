@@ -1,5 +1,5 @@
 {
-    "name":"phpdave/GithubActionPlayground",
+    "name":"phpdave/github-action-playground",
     "description" : "",
     "require": {
         "recurly/recurly-client": "2.12.*"
